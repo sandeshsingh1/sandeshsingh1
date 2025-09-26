@@ -12,6 +12,8 @@
 - 🎯 Goal: **Crack FAANG-level coding interviews**
 - ⚡ Fun fact: I love building projects & solving problems
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ---
 
 ## 🛠️ Tech Stack
@@ -22,6 +24,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 Skill Progress
+- C++ ![90%](https://progress-bar.dev/90)
+- JavaScript ![80%](https://progress-bar.dev/80)
+- React ![75%](https://progress-bar.dev/75)
+- Node.js ![70%](https://progress-bar.dev/70)
+- Python ![65%](https://progress-bar.dev/65)
 
 ---
 
@@ -52,15 +63,25 @@
 
 ---
 
+## 🏅 Achievements
+- 🌟 Solved **170+ problems on LeetCode**
+- 🏆 Ranked **top 10%** in Coding Contest XYZ
+- 📜 Published research work on **Digital Image Processing**
+
+---
+
+## 🐍 Snake Contributions
+![Snake animation](https://github.com/sandeshsingh1/sandeshsingh1/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 💡 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-sandesh-singh-58605a378
-)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeshsingh201106@gmail.com)
 
 ---
